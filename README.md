@@ -1,0 +1,1 @@
+## Repositório destinado a disciplina Padrões de Projetos do curso Sistemas para Internet
